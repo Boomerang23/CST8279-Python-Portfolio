@@ -1,4 +1,4 @@
-# Technical Portfolio – Reflective Report
+# Technical Portfolio: Reflective Report
 
 Creating this technical portfolio gave me the opportunity to look back at the work I completed throughout CST8279 – Introduction to Computer Programming Using Python. At the beginning of the course, I was mainly focused on understanding basic Python syntax and learning how to write programs that worked correctly. Building this portfolio helped me see how much my programming skills developed during the course.
 
