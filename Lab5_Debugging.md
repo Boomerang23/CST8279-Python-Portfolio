@@ -32,6 +32,7 @@ The solution was to initialize the minimum value using the first element of the 
 - Functions
 - Testing and code correction
 
-## Project File
+## Project Files
 
-- 'Lab5_Ange.Gbocho.docx'  Debugging analysis, corrected solution, testing, and references
+- 'lab5_Ange.Gbocho.py' – Python source code with the corrected minimum-value function
+- 'Lab5_Ange.Gbocho.docx' – Debugging analysis, testing, explanation, and references
